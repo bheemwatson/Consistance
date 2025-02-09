@@ -1,2 +1,5 @@
-print(hello)
-print(karma)
+print('Python program to add two number')
+num1 = 21
+num2 = 33
+result = num1 + num2
+print(result)
